@@ -123,8 +123,8 @@ I am a 3rd-year Information Technology student at HUFLIT University with a stron
 <br/>
 
 <div align="center">
-  <!-- Thẻ này sẽ khoe số ngày bạn code liên tục (Streak) trên GitHub -->
-  <img src="https://streak-stats.demolab.com?user=chunne130&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+  <!-- Biểu đồ Hoạt động Code (Activity Graph) thay thế cho Streak bị lỗi -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chunne130&theme=radical&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
