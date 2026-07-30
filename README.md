@@ -67,14 +67,26 @@ I am a 3rd-year Information Technology student at HUFLIT University with a stron
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/chunne130/DoAnDatVeXemPhim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chunne130&repo=DoAnDatVeXemPhim&theme=radical&show_icons=true" alt="Cinema Hub" width="48%" />
-  </a>
-  <a href="https://github.com/chunne130/DoAnQuanLyKhachSan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chunne130&repo=DoAnQuanLyKhachSan&theme=radical&show_icons=true" alt="Hotel Management" width="48%" />
-  </a>
-</div>
+<table border="1" bordercolor="#4ecdc4" cellpadding="15" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/chunne130/DoAnDatVeXemPhim">🎬 Cinema Hub - Ticket Booking</a></h3>
+      <br/>
+      <p>A modern, full-stack movie ticket booking platform featuring real-time seat locking and secure payment workflows.</p>
+      <div align="center">
+        <code>C#</code> <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>SignalR</code> <code>PayOS</code>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/chunne130/DoAnQuanLyKhachSan">🏨 Hotel Management System</a></h3>
+      <br/>
+      <p>A comprehensive room reservation system designed to optimize hotel operations, billing, and customer management.</p>
+      <div align="center">
+        <code>C#</code> <code>ASP.NET MVC 5</code> <code>SQL Server</code> <code>jQuery</code> <code>Bootstrap</code>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -85,7 +97,6 @@ I am a 3rd-year Information Technology student at HUFLIT University with a stron
   
   ### 🎬 Cinema Hub - Movie Ticket Booking Platform
   *A cinema management platform focused on high-performance backend architecture, secure workflows, and real-time operations.*
-  - **Tech Stack:** C# • ASP.NET Core 8 MVC • Entity Framework Core • PostgreSQL • SignalR • PayOS • Docker
   - **Key Highlights:**
     - Built real-time seat reservation with SignalR to synchronize seat locking and eliminate double-booking risks.
     - Implemented role-based authorization for Admin and User roles; integrated secure authentication via Google OAuth and ASP.NET Core Identity.
@@ -93,7 +104,6 @@ I am a 3rd-year Information Technology student at HUFLIT University with a stron
 
   ### 🏨 Hotel Management System
   *A comprehensive room reservation system designed to optimize hotel operations and customer management.*
-  - **Tech Stack:** C# • ASP.NET MVC 5 • Entity Framework 6 • SQL Server • Bootstrap • jQuery
   - **Key Highlights:**
     - Developed visual floor/room mapping, check-in/check-out workflows, and flexible room transfer functionality.
     - Integrated an additional services module (e.g., food, beverages) and automated invoice calculation for check-outs.
@@ -105,8 +115,9 @@ I am a 3rd-year Information Technology student at HUFLIT University with a stron
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chunne130&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunne130&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <!-- Đã đổi sang máy chủ dự phòng sigma-five -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chunne130&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chunne130&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br/>
