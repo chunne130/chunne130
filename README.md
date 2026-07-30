@@ -1,23 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=4ECDC4&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Hi+there%2C+I%27m+Nguyen+Thanh+Ho+%F0%9F%91%8B;Full-stack+Developer;IT+Student+at+HUFLIT" alt="Typing SVG" />
-</div>
+  <!-- Banner lượn sóng có Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:4ECDC4,100:556270&height=250&section=header&text=Nguyen%20Thanh%20Ho&fontSize=70&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Workspace!&descSize=20&descAlignY=62&descAlign=50&animation=fadeIn" alt="Banner" width="100%" />
 
-<br/>
+  <!-- Hiệu ứng gõ chữ -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=4ECDC4&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Full-stack+Developer+%F0%9F%92%BB;IT+Student+at+HUFLIT+%F0%9F%8E%93;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  
+  <br/><br/>
 
-<div align="center">
+  <!-- Các nút liên hệ -->
+  <a href="mailto:thanhho130104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Nếu có link Facebook, LinkedIn thì thay dấu # bằng link của bạn nhé -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Bộ đếm lượt xem -->
   <a href="https://github.com/chunne130">
     <img src="https://komarev.com/ghpvc/?username=chunne130&style=flat-square&color=4ecdc4&label=Profile+Views" alt="Profile Views" />
   </a>
 </div>
 
 <br/>
-
-## 💫 About Me
-I am a 3rd-year Information Technology student at HUFLIT University with a strong passion for **Full-stack Development**. My primary direction is building backend systems that are clear, maintainable, and reliable under real business workflows. I care deeply about writing code that is not only functional, but also understandable, testable, and structured for long-term growth.
-
-> 💡 *"Code is read much more often than it is written."*
-
----
 
 ## 🛠️ Tech Stack & Tools
 
