@@ -115,16 +115,8 @@ I am a 3rd-year Information Technology student at HUFLIT University with a stron
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Đã đổi sang máy chủ dự phòng sigma-five -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chunne130&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chunne130&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Biểu đồ Hoạt động Code (Activity Graph) thay thế cho Streak bị lỗi -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chunne130&theme=radical&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
@@ -143,6 +135,5 @@ I am a 3rd-year Information Technology student at HUFLIT University with a stron
 
 <br/>
 <div align="center">
-  <!-- Footer lượn sóng đóng khung chốt lại profile -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:4ECDC4,100:556270&height=100&section=footer" width="100%" />
 </div>
