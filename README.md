@@ -4,20 +4,6 @@
 
   <!-- Hiệu ứng gõ chữ -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=4ECDC4&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Full-stack+Developer+%F0%9F%92%BB;IT+Student+at+HUFLIT+%F0%9F%8E%93;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
-  
-  <br/><br/>
-
-  <!-- Các nút liên hệ -->
-  <a href="mailto:thanhho130104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Nếu có link Facebook, LinkedIn thì thay dấu # bằng link của bạn nhé -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
 
   <br/><br/>
 
@@ -28,6 +14,14 @@
 </div>
 
 <br/>
+
+## 💫 About Me
+I am a 3rd-year Information Technology student at HUFLIT University with a strong passion for **Full-stack Development**. My primary direction is building backend systems that are clear, maintainable, and reliable under real business workflows. I care deeply about writing code that is not only functional, but also understandable, testable, and structured for long-term growth.
+
+> 💡 *"Code is read much more often than it is written."*
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -40,49 +34,104 @@
 | **ORM & Databases** | <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> |
 | **Infrastructure & Dev**| <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## ⚡ Current Focus
-- 🎯 **Backend Engineering:** Deep diving into Advanced ASP.NET Core, EF Core optimization, and SQL Server performance tuning.
-- 🏗️ **Software Architecture:** Deep focus into MVC Pattern, RBAC, and RESTful API best practices.
-- 🔄 **Real-Time Systems:** Event-driven workflows using SignalR to prevent data conflicts.
-- 🎨 **Frontend UI/UX:** Designing responsive layouts with a Dark-theme Cyberpunk aesthetic.
+## ⚡ What I Do (Current Focus)
 
----
+<table align="center" border="0" cellpadding="15">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Backend Engineering</h3>
+      Deep diving into <b>ASP.NET Core 8</b>, Entity Framework optimization, and SQL Server performance tuning to build high-performance APIs.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ Software Architecture</h3>
+      Focusing on <b>MVC Pattern</b>, Clean Architecture principles, Role-Based Access Control (RBAC), and RESTful API best practices.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Real-Time Systems</h3>
+      Developing event-driven, real-time data workflows and locking mechanisms using <b>SignalR</b>.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend UI/UX</h3>
+      Crafting dynamic and responsive user interfaces with a focus on modern aesthetics (e.g., Dark-theme Cyberpunk).
+    </td>
+  </tr>
+</table>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🚀 Featured Projects
 
-### 🎬 Cinema Hub - Movie Ticket Booking Platform
-*A cinema management platform focused on high-performance backend architecture, secure workflows, and real-time operations.*
-- **Tech Stack:** `C#` • `ASP.NET Core 8 MVC` • `Entity Framework Core` • `PostgreSQL` • `SignalR` • `PayOS` • `Docker`
-- **Key Highlights:**
-  - Built real-time seat reservation with SignalR to synchronize seat locking and eliminate double-booking risks.
-  - Implemented role-based authorization for Admin and User roles; integrated secure authentication via Google OAuth and ASP.NET Core Identity.
-  - Integrated the PayOS payment gateway for online transactions and implemented automated e-ticket generation with QR codes.
+<div align="center">
+  <a href="https://github.com/chunne130/DoAnDatVeXemPhim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chunne130&repo=DoAnDatVeXemPhim&theme=radical&show_icons=true" alt="Cinema Hub" width="48%" />
+  </a>
+  <a href="https://github.com/chunne130/DoAnQuanLyKhachSan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chunne130&repo=DoAnQuanLyKhachSan&theme=radical&show_icons=true" alt="Hotel Management" width="48%" />
+  </a>
+</div>
 
-### 🏨 Hotel Management System
-*A comprehensive room reservation system designed to optimize hotel operations and customer management.*
-- **Tech Stack:** `C#` • `ASP.NET MVC 5` • `Entity Framework 6` • `SQL Server` • `Bootstrap` • `jQuery`
-- **Key Highlights:**
-  - Developed visual floor/room mapping, check-in/check-out workflows, and flexible room transfer functionality.
-  - Integrated an additional services module (e.g., food, beverages) and automated invoice calculation for check-outs.
+<br/>
 
----
+<details>
+  <summary><b>✨ Click here to view detailed project highlights</b></summary>
+  
+  <br/>
+  
+  ### 🎬 Cinema Hub - Movie Ticket Booking Platform
+  *A cinema management platform focused on high-performance backend architecture, secure workflows, and real-time operations.*
+  - **Tech Stack:** C# • ASP.NET Core 8 MVC • Entity Framework Core • PostgreSQL • SignalR • PayOS • Docker
+  - **Key Highlights:**
+    - Built real-time seat reservation with SignalR to synchronize seat locking and eliminate double-booking risks.
+    - Implemented role-based authorization for Admin and User roles; integrated secure authentication via Google OAuth and ASP.NET Core Identity.
+    - Integrated the PayOS payment gateway for online transactions and implemented automated e-ticket generation with QR codes.
 
-## 🤝 Connect with me
-<p align="left">
+  ### 🏨 Hotel Management System
+  *A comprehensive room reservation system designed to optimize hotel operations and customer management.*
+  - **Tech Stack:** C# • ASP.NET MVC 5 • Entity Framework 6 • SQL Server • Bootstrap • jQuery
+  - **Key Highlights:**
+    - Developed visual floor/room mapping, check-in/check-out workflows, and flexible room transfer functionality.
+    - Integrated an additional services module (e.g., food, beverages) and automated invoice calculation for check-outs.
+</details>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chunne130&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunne130&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Thẻ này sẽ khoe số ngày bạn code liên tục (Streak) trên GitHub -->
+  <img src="https://streak-stats.demolab.com?user=chunne130&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<div align="center">
+  <h3>🤝 Let's Connect!</h3>
+  <p>Feel free to reach out for collaborations, tech discussions, or just to say hi!</p>
   <a href="mailto:thanhho130104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Nếu có LinkedIn thì thay link vào chỗ "#", không có thì có thể xóa dòng dưới đi -->
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</div>
 
-<br />
-
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chunne130&show_icons=true&theme=radical&hide_border=true" height="150" alt="chunne130's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunne130&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <!-- Footer lượn sóng đóng khung chốt lại profile -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:4ECDC4,100:556270&height=100&section=footer" width="100%" />
 </div>
